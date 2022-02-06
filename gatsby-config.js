@@ -9,9 +9,9 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `StOrganic`,
     siteTitleAlt: `StOrganic - `,
-    siteHeadline: `StOrganic - Gatsby Theme from @lekoarts`,
+    siteHeadline: `StOrganic - Where everything is kept organic`,
     siteUrl: `https://storganic.org`,
-    siteDescription: `Description blsaflka;lgsjlgs ;gjd;gdfg`,
+    siteDescription: `StOrganic, Where everything is kept organic`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@Naji Zaki`,
